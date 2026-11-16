@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+tensorflow
+nltk
+torch
+transformers
+datasets
+evaluate
+arabert
+openpyxl
+jupyter
